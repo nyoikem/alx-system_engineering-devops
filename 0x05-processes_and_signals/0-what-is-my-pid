@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Displays own PID
+
+while "true"
+do
+echo "ALX Project"
+sleep 2
+done
